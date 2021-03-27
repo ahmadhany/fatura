@@ -2,7 +2,7 @@ Prerequisites (must be installed):
 - Postgresql
 - Nodejs + npm
 
-How to run?
+How to run?  
 1 - check app/config/db.config to add your local postgres server credentials.  
 2 - create a local database and call it 'faturadb'  
 3 - install the dependencies by running `npm install`  
