@@ -11,7 +11,7 @@ How to run?
 note: after starting the application, some dummy data will be loaded to the database in order to use the below APIs.  
 
 
-you can find the database schema in folder db  
+**you can find the database schema in folder db  
 
 APIs:
 =====
